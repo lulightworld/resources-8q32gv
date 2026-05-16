@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lulightworld.github.io/resources-8q32gv/sitemap.xml
